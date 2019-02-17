@@ -1,7 +1,7 @@
 baseURL = "https://blog.lame.host/"
 languageCode = "en-us"
 title = "notes"
-theme = "simple-hugo-theme"
+theme = "slim"
 copyright = "© 2019 - bostrt - All rights reserved."
 
 # Highlighting
